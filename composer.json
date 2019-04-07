@@ -1,0 +1,14 @@
+{
+    "name": "earc/s-tee",
+    "description": "eArc - the explicit architecture framework - shortest template engine ever",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.0",
+    "authors": [
+        {
+            "name": "Thomas Koudela",
+            "email": "thomas@koudela.net"
+        }
+    ],
+ }
+ 
